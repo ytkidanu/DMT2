@@ -88,7 +88,7 @@ _No two inputs share an output_
 
 **Surjective (onto) Functions**\
 <img width="792" alt="image" src="https://github.com/ytkidanu/DMT2/assets/123510145/1b131086-ec1e-4ff2-85a9-68e07b97a712">
-
+******* THE ONE ON THE RIGHT IS AN EXAMPLE OF NON-SUBJECTIVE *******
 ∀𝑐∈𝐶, ∃𝑑∈𝐷 :𝑓(𝑑)=𝑐
 
 Everything in 𝐶 is the output of something in 𝑑\
