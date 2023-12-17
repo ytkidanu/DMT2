@@ -76,6 +76,8 @@ _Finite_ function: a function with a finite domain
 	𝑓:𝐷→𝐶 is a finite function if 𝐷 is finite. Otherwise it’s an infinite function
    
 **Injective Functions**\
+<img width="98" alt="image" src="https://github.com/ytkidanu/DMT2/assets/123510145/1f2e29ba-9370-4c6a-8612-2f3468a30ebc">
+
 One-to-one (injective)\
 𝑥≠𝑦⇒𝑓(𝑥)≠𝑓(𝑦)\
 Different inputs yield different outputs\
@@ -85,6 +87,8 @@ _No two inputs share an output_
     a function that maps distinct elements of its domain to distinct elements of its codomain. Formally, it is stated as, if f(x) = f(y) implies x=y, then f is one-to-one mapped, or f is 1-1
 
 **Surjective (onto) Functions**\
+<img width="792" alt="image" src="https://github.com/ytkidanu/DMT2/assets/123510145/1b131086-ec1e-4ff2-85a9-68e07b97a712">
+
 ∀𝑐∈𝐶, ∃𝑑∈𝐷 :𝑓(𝑑)=𝑐
 
 Everything in 𝐶 is the output of something in 𝑑\
@@ -94,6 +98,8 @@ Everything in Co-Domain “receives” something
 
 
 **One-to-one Correspondence (bijective)**\
+<img width="336" alt="image" src="https://github.com/ytkidanu/DMT2/assets/123510145/eab43a96-46e0-428f-ac8f-89509c45765c">
+
 Both injective and surjective\
 Everything in 𝐶 is mapped to by a unique element in 𝐷\
 All elements from domain and co-domain are perfectly “partnered”
@@ -107,6 +113,7 @@ Nothing in Co-Domain “receives” two things
 **Conclusion:
 Things in the Domain _exactly_ “partner” with things in Co-Domain**
 
+<img width="98" alt="image" src="https://github.com/ytkidanu/DMT2/assets/123510145/b712e569-0ab0-45d0-8c28-f5e5443249d0">
 
 ### Overview of Computation!
 
