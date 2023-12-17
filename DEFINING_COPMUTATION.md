@@ -1,4 +1,4 @@
-<img width="392" alt="image" src="https://github.com/ytkidanu/DMT2/assets/123510145/c298ff2a-1590-4427-bfbc-f085da6f9353">![image](https://github.com/ytkidanu/DMT2/assets/123510145/1183fcb3-afb9-4fdb-8830-9c310cdf75d2)# DEFINING INPUT AND OUTPUT dfkugjgs
+# DEFINING INPUT AND OUTPUT dfkugjgs
 
 <img width="742" alt="Screen Shot 2023-12-16 at 7 51 03 PM" src="https://github.com/ytkidanu/DMT2/assets/123510145/f059a74a-0fd1-434e-bc77-c8431507a13d">
 
