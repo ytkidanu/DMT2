@@ -120,3 +120,21 @@ Things in the Domain _exactly_ “partner” with things in Co-Domain**
 **Input / Output are Strings and a
 Computing Machine is something that implements a set of functions that we care about.**
 
+Sets
+- {} notation
+- No duplicates
+- Equal when the have samw number
+
+  Sequence
+  - () notation
+  - order matters
+  - equal when they have same numbers in same order
+
+Proof by construction: look at claim, if that thing is supposed to exist, then we will construct the argument and the process always works
+
+For each even number n>2, there exists a 3-regular graph with n nodes
+
+Overall idea: draw nodes in a circle and number them (1 to n-1). mathc each node with one next to it and also directly across from it
+this is general and applies to any # of nodes
+
+copy example from slides
